@@ -5,7 +5,7 @@ int main()
 {
 	int n,z=1; 
 	cout<<"Enter rows: ";
-	cout<<"HELLOOOOOO";
+	cout<<"HELLOOOOOO bare re haaaa haaaa haaaa";
 	cin>>n;
 	for(int i=1;i<=n;i++)
 	{
