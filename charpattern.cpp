@@ -5,6 +5,7 @@ int main()
 {
 	int n,z=1; 
 	cout<<"Enter rows: ";
+	cout<<"HELLOOOOOO";
 	cin>>n;
 	for(int i=1;i<=n;i++)
 	{
